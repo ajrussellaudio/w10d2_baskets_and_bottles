@@ -1,0 +1,14 @@
+{
+  "name": "shopping_basket",
+  "version": "1.0.0",
+  "description": "A basket for shopping",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "author": "Alan fuckin' Russell",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.0.2"
+  }
+}

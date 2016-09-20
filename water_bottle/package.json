@@ -1,0 +1,11 @@
+{
+  "name": "water_bottle",
+  "version": "1.0.0",
+  "description": "A bottle for water.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "author": "Alan fuckin' Russell",
+  "license": "ISC"
+}
